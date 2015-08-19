@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"project",
+				"Project: Edit Project"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"pakcage control",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – User"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/tkilburn/AppData/Roaming/Sublime Text 3/Packages/User/MyProject.sublime-project",
+		"/C/Users/tkilburn/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/tkilburn/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/tkilburn/Documents/LocalRepository/SVN/jems/trunk/src/Cfw/Jems_CFW/Configuration/ShowSettings_118.xml",
+		"/C/Users/tkilburn/Documents/LocalRepository/SVN/jems/trunk/src/Cfw/Jems_CFW/Configuration/ShowSettings_117.xml",
+		"//showdev/ShowDev/afceaSummit15SelfReg/Web.config",
+		"/C/Users/tkilburn/Documents/LocalRepository/SVN/show/AFCEA/Gis/RegHousing/trunk/GIS/GIS.Publish.xml",
+		"//showdev/ShowDev/asha15/include/variables.asp",
+		"//showdev/ShowDev/asha15/Policies/AttendeeCancellation.asp",
+		"//showdev/ShowDev/asha15/change/receipt.asp",
+		"/C/Users/tkilburn/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"//showdev/ShowDev/asha15/change/eventSPECIAL.asp",
+		"//tns1/inetpub/onsite/onsiteafceaGIS15/add/reg10Add.asp",
+		"//showdev/ShowDev/milcom15/include/variables.asp",
+		"//showdev/ShowDev/milcom15/change/cancel1.asp",
+		"//showdev/ShowDev/milcom15/groupblock/default.asp",
+		"/C/Users/tkilburn/Documents/GeneralStaging/foo.html",
+		"/C/Users/tkilburn/Documents/GeneralStaging/foo.reg",
+		"/C/Users/tkilburn/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"done",
+			"enter",
+			"Test",
+			"fooobar",
+			"ignored",
+			"price",
+			"member",
+			"fulladdr",
+			"getstate",
+			"tna",
+			"national secur",
+			"national secur'",
+			"summit",
+			"2014",
+			"splash",
+			"promo",
+			"less a $75",
+			"Cancellation requests receive",
+			"cancellation",
+			"Required information is either invalid or missing. Please review the notes belo",
+			"Text1\"",
+			"Text1",
+			"select1",
+			"PDON",
+			"pdon",
+			"tkilburn",
+			"S:",
+			"tkilburn",
+			"cprint",
+			"written cancellation request is received",
+			"policy",
+			"64th",
+			"64",
+			"biometricsr",
+			"biometrics",
+			"biometricsregistration",
+			"bio",
+			"metri",
+			"met",
+			"bio",
+			"boi",
+			"body",
+			"save",
+			"close",
+			"save"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\tkilburn\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\MyProject.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

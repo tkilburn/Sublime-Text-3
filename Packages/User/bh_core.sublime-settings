@@ -1,0 +1,64 @@
+{
+    "scope_brackets": [
+
+        // Omit Quotes...
+
+        // Regex for different Languages
+        {
+            "name": "jsregex",
+            "open": " *(/)",
+            "close": "(/)[igm]*",
+            "style": "regex",
+            "scopes": ["string"],
+            "language_filter": "whitelist",
+            "language_list": ["JavaScript"],
+            "sub_bracket_search": "true",
+            "enabled": true
+        },
+        {
+            "name": "perlregex",
+            "open": "(?:m|s|tr)(.|\n)",
+            "close": "(.|\n)(?:[igmos]*)",
+            "style": "regex",
+            "scopes": ["string.regexp"],
+            "language_filter": "whitelist",
+            "language_list": ["Perl"],
+            "sub_bracket_search": "true",
+            "enabled": true
+        },
+        {
+            "name": "rubyregex",
+            "open": " *(/)",
+            "close": "(/)[imxo]*",
+            "style": "regex",
+            "scopes": ["string"],
+            "language_filter": "whitelist",
+            "language_list": ["Ruby", "RSpec"],
+            "sub_bracket_search": "true",
+            "enabled": true
+        },
+        // Markdown
+        {
+            "name": "mditalic",
+            "open": "(\\*|_)",
+            "close": "(\\*|_)",
+            "style": "default",
+            "scopes": ["markup.italic"],
+            "language_filter": "whitelist",
+            "language_list": ["Markdown"],
+            "sub_bracket_search": "true",
+            "enabled": true
+        },
+        {
+            "name": "mdbold",
+            "open": "(\\*\\*|__)",
+            "close": "(\\*\\*|__)",
+            "style": "default",
+            "scopes": ["markup.bold"],
+            "language_filter": "whitelist",
+            "language_list": ["Markdown"],
+            "sub_bracket_search": "true",
+            "enabled": true
+        }
+    ]
+}

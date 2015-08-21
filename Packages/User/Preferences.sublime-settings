@@ -1,5 +1,13 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/iPlastic (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		".meteor",
+		"CVS"
+	],
 	"font_size": 10,
 	"hot_exit": false,
 	"ignored_packages":
@@ -8,8 +16,8 @@
 	],
 	"show_tab_close_buttons": false,
 	"tab_size": 2,
-  "theme": "Soda Light 3.sublime-theme",
+	"theme": "Cobalt2.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"soda_classic_tabs": true,
-	"soda_folder_icons": true
+
+	"auto_complete_triggers": [ { "characters": "<", "selector": "text.html" }, { "characters": ".", "selector": "source.js" } ]
 }

@@ -1,8 +1,5 @@
 {
-	//Cobalt
-  "color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
-  "theme": "Cobalt2.sublime-theme",
-  //
+	"color_scheme": "Packages/User/SublimeLinter/iPlastic (SL).tmTheme",
 	"font_size": 10,
 	"hot_exit": false,
 	"ignored_packages":
@@ -11,5 +8,8 @@
 	],
 	"show_tab_close_buttons": false,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true
+  "theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true
 }

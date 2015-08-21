@@ -1,5 +1,8 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/iPlastic.tmTheme",
+	//Cobalt
+  "color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+  "theme": "Cobalt2.sublime-theme",
+  //
 	"font_size": 10,
 	"hot_exit": false,
 	"ignored_packages":

@@ -1,5 +1,40 @@
 {
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+
+	"file_exclude_patterns":
+	["*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj","*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		//"*.min.js",
+		"*.sublime-workspace"
+	],
+
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -8,6 +43,8 @@
 		".meteor",
 		"CVS"
 	],
+
+
 	"font_size": 10,
 	"hot_exit": false,
 	"ignored_packages":
@@ -17,7 +54,5 @@
 	"show_tab_close_buttons": false,
 	"tab_size": 2,
 	"theme": "Cobalt2.sublime-theme",
-	"translate_tabs_to_spaces": true,
-
-	"auto_complete_triggers": [ { "characters": "<", "selector": "text.html" }, { "characters": ".", "selector": "source.js" } ]
+	"translate_tabs_to_spaces": true
 }

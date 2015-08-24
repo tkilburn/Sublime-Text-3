@@ -6,6 +6,8 @@
 	[
 		"BracketHighlighter",
 		"Emmet",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
 		"Meteor Autocomplete (TernJS)",
 		"Package Control",
 		"Razor",

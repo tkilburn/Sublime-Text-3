@@ -11,13 +11,14 @@
 		}
 	],
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
-
 	"file_exclude_patterns":
-	["*.pyc",
+	[
+		"*.pyc",
 		"*.pyo",
 		"*.exe",
 		"*.dll",
-		"*.obj","*.o",
+		"*.obj",
+		"*.o",
 		"*.a",
 		"*.lib",
 		"*.so",
@@ -31,10 +32,8 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		//"*.min.js",
 		"*.sublime-workspace"
 	],
-
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -43,9 +42,7 @@
 		".meteor",
 		"CVS"
 	],
-
-
-	"font_size": 10,
+	"font_size": 9,
 	"hot_exit": false,
 	"ignored_packages":
 	[

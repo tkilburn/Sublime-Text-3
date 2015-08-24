@@ -8,12 +8,13 @@
 		"Emmet",
 		"Handlebars",
 		"HTML-CSS-JS Prettify",
-		"Meteor Autocomplete (TernJS)",
+		"JSHint Gutter",
 		"Package Control",
 		"Razor",
 		"SideBarEnhancements",
 		"SnippetMaker",
 		"SublimeLinter",
+		"TernJS",
 		"Theme - Cobalt2"
 	]
 }
